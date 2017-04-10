@@ -10,7 +10,7 @@ Type 'make linux' if you use linux, otherwhise(for MacOS) use just make.
 
 	./fdf <map>
 
-## zoom
+## controls
 	MOVE : wasd
 	ZOOM : +/-
 	HEIGHT : f/g keys
