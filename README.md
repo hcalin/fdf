@@ -15,4 +15,4 @@ Type 'make linux' if you use linux, otherwhise(for MacOS) use just make.
 	ZOOM : +/-
 	HEIGHT : f/g keys
 
-![42](https://i.imgsafe.org/b894d40258.png)
+![42](https://kiboparts.ro/wp-content/uploads/2020/10/42fdf.jpg)
